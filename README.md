@@ -1,8 +1,8 @@
 # The World in One Day — Monday, 23 November 2026
 
-[![news-image-20261123-v2](https://img.shields.io/badge/make.fun-news--image--20261123--v2-blue)](https://github.com/fuziolee/news-image-20261123-v2)
-[![owner](https://img.shields.io/badge/owner-fuziolee-green)](https://github.com/fuziolee)
-[![entry](https://img.shields.io/badge/entry-entry.png-orange)](https://github.com/fuziolee/news-image-20261123-v2/blob/main/entry.png)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/fuziolee/news-image-20261123-v2/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/fuziolee/news-image-20261123-v2/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 One day of world news, one picture: 37 verified stories from Monday, 23 November 2026 — 4 illustrated hero stories, 12 short reports and 21 more headlines — across 7 regions, with a UTC timeline, a world map of where it happened, and a date-check banner.
 
